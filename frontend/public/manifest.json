@@ -1,0 +1,9 @@
+{
+  "short_name": "Voice Bot",
+  "name": "Voice Bot with Watsonx LLM",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4B0082",
+  "background_color": "#ffffff"
+} 
