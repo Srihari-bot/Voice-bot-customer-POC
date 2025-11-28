@@ -1,0 +1,23 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-dotenv==1.0.0
+requests==2.31.0
+pydantic==2.5.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# System Text-to-Speech and Speech-to-Text
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyaudio==0.2.11
+
+# PDF Processing and RAG
+PyPDF2==3.0.1
+chromadb==0.4.22
+sentence-transformers==2.2.2
+numpy==1.24.3
+langchain-text-splitters==0.0.1
+langchain-community==0.0.20
+
+# OpenAI integration removed as requested 
